@@ -1,2 +1,4 @@
 # revanced-automatic-builder
-Bash script that builds Revanced(Youtube/Music) automaticaly. Just run script!
+Bash script that builds Revanced(All apps!) automaticaly. Just run script!
+
+![Screenshot_20220808_051411](https://user-images.githubusercontent.com/41156994/183309460-76a3b7bd-2fea-4195-8ad9-e58c77eeb9ce.png)
