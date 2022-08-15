@@ -14,7 +14,7 @@ apps=("youtube" "music" "twitter" "reddit" "warnwetter")
 youtube=(
     "Youtube"
     "youtube"
-    "https://apkcombo.com/youtube/com.google.android.youtube"
+    "https://www.apkmirror.com/wp-content/uploads/2022/08/76/62f7173bdc9d4/com.google.android.youtube_17.32.35-1531043264_minAPI23(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk?verify=1660593730-otzo7fOc9064leQYrQhTQfpaj9gBP2U40VnauSnOIOM"
 )
 music=(
     "Youtube Music"
